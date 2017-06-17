@@ -20,5 +20,14 @@
   "bugs": {
     "url": "https://github.com/lewiscutey/PDF/issues"
   },
-  "homepage": "https://github.com/lewiscutey/PDF#readme"
+  "homepage": "https://github.com/lewiscutey/PDF#readme",
+  "dependencies": {
+    "babel-helper-vue-jsx-merge-props": "^2.0.2",
+    "babel-plugin-syntax-jsx": "^6.18.0",
+    "babel-plugin-transform-vue-jsx": "^3.4.3",
+    "babel-preset-es2015": "^6.24.1",
+    "fis3-parser-babel2": "^1.0.0",
+    "fis3-parser-vue-component": "^5.4.0",
+    "vue": "^2.3.4"
+  }
 }
