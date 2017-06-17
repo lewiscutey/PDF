@@ -1,0 +1,24 @@
+{
+  "name": "lewis",
+  "version": "1.0.0",
+  "description": "预览PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewiscutey/PDF.git"
+  },
+  "keywords": [
+    "fis3",
+    "PDF",
+    "vue"
+  ],
+  "author": "lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lewiscutey/PDF/issues"
+  },
+  "homepage": "https://github.com/lewiscutey/PDF#readme"
+}
